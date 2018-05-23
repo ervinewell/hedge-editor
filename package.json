@@ -1,0 +1,31 @@
+{
+  "name": "hedge-editor",
+  "version": "1.0.0",
+  "description": "An editor based on Prosemirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ervinewell/hedge-editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ervinewell/hedge-editor/issues"
+  },
+  "homepage": "https://github.com/ervinewell/hedge-editor#readme",
+  "dependencies": {
+    "prosemirror-commands": "^1.0.7",
+    "prosemirror-history": "^1.0.2",
+    "prosemirror-keymap": "^1.0.1",
+    "prosemirror-model": "^1.4.4",
+    "prosemirror-schema-basic": "^1.0.0",
+    "prosemirror-state": "^1.2.0",
+    "prosemirror-view": "^1.3.0",
+    "prosemirror-schema-list": "^1.0.1",
+    "prosemirror-example-setup": "^1.0.1"
+  }
+}
